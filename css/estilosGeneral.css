@@ -1,0 +1,41 @@
+body{
+    width: 100%;
+    height: auto;
+} 
+
+.navegacion{
+    width: 90%;
+    height: auto;
+    margin-left: 6%;    
+    position: relative;
+}
+
+.cuerpo{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    position: relative;  
+    margin-top: 5%; 
+}
+
+.cuerpo h3{
+    text-align: center;
+}
+
+.form{
+    margin-top: 3%;
+}
+
+.table{
+    position: relative;
+    margin-top: 5%;
+}
+
+.table th[scope]{
+    text-align: center;
+}
+
+tbody th{
+    font-weight: normal;
+    text-align: center;
+}
